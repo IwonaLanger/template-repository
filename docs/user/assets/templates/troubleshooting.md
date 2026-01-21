@@ -2,7 +2,7 @@
 
 <!-- Use this template to write troubleshooting instructions. You can also use it to document alarm clearing strategies.
 
-As document title, mention the symptom that needs fixing ("Cannot access...") or the error message, for example, `title: '"FAILED" status for created ServiceInstances'`. Do not use the cause as title ("Incompatible version"), because we want to help users who have no idea about the cause and only know something's not working as expected.
+In the document's title, mention the symptom that needs fixing ("Cannot access...") or the error message, for example, `"FAILED" status for created ServiceInstances`. Do not use the cause as a title ("Incompatible version"), because we want to help users who have no idea about the cause and only know something's not working as expected.
 -->
 
 ## Symptom
