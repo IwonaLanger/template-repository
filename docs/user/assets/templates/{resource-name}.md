@@ -4,7 +4,10 @@
 
 For the filename, follow the `{RESOURCE_NAME}.md` convention. For the title, use the name of the custom resource written in camel case. For example, "LogPipeline" or "Function".
 
-For reference, see [Telemetry Resources](https://github.com/kyma-project/telemetry-manager/blob/main/docs/user/resources/README.md) or [Serverless Resources](https://github.com/kyma-project/serverless/tree/main/docs/user/resources). Resource documentation is usually placed in the `docs/user/resources` directory of a module repository.-->
+For reference, see [Telemetry Resources](https://github.com/kyma-project/telemetry-manager/blob/main/docs/user/resources/README.md) or [Serverless Resources](https://github.com/kyma-project/serverless/tree/main/docs/user/resources). Resource documentation is usually placed in the `docs/user/resources` directory of a module repository.
+
+Some module teams update the resource documentation manually, while others use tools that autogenerate it from code files. For guidance on implementing autogeneration, see [Autogenenerate Custom Resource Documentation](TBD). Regardless of the approach you choose, maintain the basic structure of the file.
+-->
 
 The `{CRD name}` CustomResourceDefinition (CRD) is a detailed description of the kind of data and the format used to {provide the CRD description}. To get the up-to-date CRD and show the output in the `yaml` format, run this command:
 
@@ -28,7 +31,7 @@ metadata:
 ```
 
 ## Custom Resource Parameters
-<!-- This section lists all the fields of the custom resource and provides their description. Some teams update the tables manually, and some use tools that autogenerate this output based on the code files. See [Generate Custom Resource Documetnation](add link) -->
+<!-- This section lists all the fields of the custom resource and provides their description. -->
 
 This table lists all the possible parameters of a given resource together with their descriptions:
 
