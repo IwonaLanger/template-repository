@@ -27,9 +27,9 @@ For example, describe the details of the concept or feature at hand.
 
 <!-- If possible, split the content into sections so that the users can easily jump to a relevant paragraph with the right-hand navigation.
 
-For example, provide links to relevant instructions, troubleshooting guides, or external sources.
+For example, explain benefits, use cases, or limitations of the concept.
 -->
 
-## Related Links
+## Related Information (Optional)
 
-<!-- If needed, add links to related topics.-->
+<!-- Add links to related topics.-->

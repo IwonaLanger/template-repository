@@ -48,3 +48,7 @@ Result:
 Next Steps:
 
 <!-- Optional - might be useful if another activity typically follows this one -->
+
+## Related Information (Optional)
+
+<!-- Add links to related topics.-->
