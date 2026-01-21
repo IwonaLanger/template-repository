@@ -2,9 +2,9 @@
 
 <!-- Answer "what-is" questions and provide essential background information that users must know.
 
-Conceptual information might explain the nature and components of a product and describe how it fits into a category of products. Conceptual information helps readers to map their knowledge and understanding to the tasks they need to perform and to provide other essential information about a product, process, or system.
+Conceptual information might explain the nature and components of a product and describe how it fits within a product category. Conceptual information helps readers map their knowledge and understanding to the tasks they need to perform and provides other essential information about a product, process, or system.
 
-Concept topics do not give instructions or include reference information in tables or lists. They may, however, contain links to task topics which explain a related procedure, or reference topics that help define the topic in greater detail.
+Concept topics do not give instructions or include reference information in tables or lists. They may, however, contain links to task topics that explain a related procedure or to reference topics that help define the topic in greater detail.
 
 Use nominal style for the title, for example, "Security" or "Security Concept".
 -->

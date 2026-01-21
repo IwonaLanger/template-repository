@@ -1,10 +1,8 @@
 # Custom Resource Topic
 
-<!-- Use this template for a custom resource (CR) document that provides a sample custom resource and description of its fields. Additionally, the document points to the CustomResourceDefinition (CRD) used to create CRs of the given kind.
+<!-- Use this template for a custom resource (CR) document that provides a sample custom resource and describes its fields. Additionally, the document points to the CustomResourceDefinition (CRD) used to create CRs of the given kind.
 
-For the filename, follow the `{RESOURCE_NAME}.md` convention. For the title, use the name of the custom resource written in camel case. For example, "LogPipeline" or "Function".
-
-For reference, see [Telemetry Resources](https://github.com/kyma-project/telemetry-manager/blob/main/docs/user/resources/README.md) or [Serverless Resources](https://github.com/kyma-project/serverless/tree/main/docs/user/resources). Resource documentation is usually placed in the `docs/user/resources` directory of a module repository.
+For the filename, follow the `{RESOURCE_NAME}.md` convention. For the title, use the name of the custom resource written in camel case. For example, "LogPipeline" or "Function". For reference, see [Telemetry Resources](https://github.com/kyma-project/telemetry-manager/blob/main/docs/user/resources/README.md) or [Serverless Resources](https://github.com/kyma-project/serverless/tree/main/docs/user/resources).
 
 Some module teams update the resource documentation manually, while others use tools that autogenerate it from code files. For guidance on implementing autogeneration, see [Autogenenerate Custom Resource Documentation](TBD). Regardless of the approach you choose, maintain the basic structure of the file.
 -->
