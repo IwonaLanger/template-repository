@@ -30,7 +30,9 @@ metadata:
 
 ## Custom Resource Parameters
 <!-- This section lists all the fields of the custom resource and provides their description.
-If you use autogeneration (recommended), this table is automatically generated from code. -->
+If you use autogeneration (recommended), this table is automatically generated from code.
+The table must specify a parameter's name, its descriptions, and whether it is required.
+If needed, you can also include other columns such as Validation, Type, or Default. -->
 
 This table lists all the possible parameters of a given resource together with their descriptions:
 
