@@ -9,7 +9,7 @@ Concept topics do not give instructions or include reference information in tabl
 Use nominal style for the title, for example, "Security" or "Security Concept".
 -->
 
-<!-- For content guielines, such as style and terminology, formatting, diagrams, and more, see https://github.com/kyma-project/community/tree/main/docs/guidelines/content-guidelines -->
+<!-- For content guidelines, such as style and terminology, formatting, diagrams, and more, see https://github.com/kyma-project/community/tree/main/docs/guidelines/content-guidelines -->
 
 ## {Headline 1}
 

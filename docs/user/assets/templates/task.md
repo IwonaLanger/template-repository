@@ -10,7 +10,7 @@ With regards to structure, it’s recommended to have an **introductory paragrap
 It's good practice to keep it to 5-9 steps; anything longer can probably be split.
 -->
 
-<!-- For content guielines, such as style and terminology, formatting, diagrams, and more, see https://github.com/kyma-project/community/tree/main/docs/guidelines/content-guidelines -->
+<!-- For content guidelines, such as style and terminology, formatting, diagrams, and more, see https://github.com/kyma-project/community/tree/main/docs/guidelines/content-guidelines -->
 
 ## Prerequisites
 
