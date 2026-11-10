@@ -5,7 +5,7 @@
 In the document's title, mention the symptom that needs fixing ("Cannot access...") or the error message, for example, `"FAILED" status for created ServiceInstances`. Do not use the cause as a title ("Incompatible version"), because we want to help users who have no idea about the cause and only know something's not working as expected.
 -->
 
-<!-- For content guielines, such as style and terminology, formatting, diagrams, and more, see https://github.com/kyma-project/community/tree/main/docs/guidelines/content-guidelines -->
+<!-- For content guidelines, such as style and terminology, formatting, diagrams, and more, see https://github.com/kyma-project/community/tree/main/docs/guidelines/content-guidelines -->
 
 ## Symptom
 
