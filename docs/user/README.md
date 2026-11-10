@@ -1,6 +1,6 @@
 > **TIP:** Apart from the {Module Name} heading, you can use your own titles for the remaining sections. You can also add more module-specific sections.
 
-<!-- For content guielines, such as style and terminology, formatting, diagrams, and more, see https://github.com/kyma-project/community/tree/main/docs/guidelines/content-guidelines -->
+<!-- For content guidelines, such as style and terminology, formatting, diagrams, and more, see https://github.com/kyma-project/community/tree/main/docs/guidelines/content-guidelines -->
 
 # {Module Name}
 > Modify the title and insert the name of your module. Use Heading 1 (H1).

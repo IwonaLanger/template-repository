@@ -8,7 +8,7 @@
 > - `Code of Conduct` - do not change this!
 > - `Licensing` - do not change this!
 
-> For guielines on style and terminology, formatting, diagrams, and more, see the [content guidelines](https://github.com/kyma-project/community/tree/main/docs/guidelines/content-guidelines).
+> For guidelines on style and terminology, formatting, diagrams, and more, see the [content guidelines](https://github.com/kyma-project/community/tree/main/docs/guidelines/content-guidelines).
 
 # {Project Title}
 <!--- mandatory --->

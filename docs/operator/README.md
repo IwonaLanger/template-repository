@@ -1,6 +1,6 @@
 Use this folder only if your module/component has documentation relevant exclusively to operators of restricted markets and does not belong in the `user` or `contributor` folders. Do not duplicate content from the `user` or `contributor` folders. If no relevant content exists, delete this folder.
 
-<!-- For content guielines, such as style and terminology, formatting, diagrams, and more, see https://github.com/kyma-project/community/tree/main/docs/guidelines/content-guidelines -->
+<!-- For content guidelines, such as style and terminology, formatting, diagrams, and more, see https://github.com/kyma-project/community/tree/main/docs/guidelines/content-guidelines -->
 
 ## General Guidelines
 
